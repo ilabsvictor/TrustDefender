@@ -9,7 +9,5 @@ Pod::Spec.new do |s|
   s.library					= 'z'
   s.platform   				= :ios
   s.ios.deployment_target	= '10.0'
-  s.public_header_files		= "TrustDefender.framework/Headers/*.h"
-  s.source_files			= "TrustDefender.framework/Headers/*.h"
   s.vendored_frameworks		= "TrustDefender.framework"
 end
