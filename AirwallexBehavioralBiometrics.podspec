@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name					= 'AirwallexTrustDefender'
+  s.name					= 'AirwallexBehavioralBiometrics'
   s.version					= '6.1'
   s.summary					= 'TrustDefender framework'
   s.homepage				= "https://www.airwallex.com/docs/#overview"
@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.library					= 'z'
   s.platform   				= :ios
   s.ios.deployment_target	= '10.0'
-  s.vendored_frameworks		= "TrustDefender.xcframework"
+  s.vendored_frameworks		= "RLTMXBehavioralBiometrics.xcframework"
 end
