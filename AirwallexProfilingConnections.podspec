@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name					= 'AirwallexProfilingConnections'
-  s.version					= '6.1.1'
+  s.version					= '6.1.55'
   s.summary					= 'TrustDefender framework'
   s.homepage				= "https://www.airwallex.com/docs/#overview"
   s.license					= { :type => 'MIT', :file => 'LICENSE' }
