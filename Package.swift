@@ -21,7 +21,7 @@ let package = Package(
         .library(
             name: "RLTMXProfilingConnections",
             targets: ["RLTMXProfilingConnections"]
-        ),
+        )
     ],
     dependencies: [],
     targets: [
@@ -36,6 +36,6 @@ let package = Package(
         .target(
             name: "RLTMXProfilingConnections",
             path: "RLTMXProfilingConnections.xcframework",
-        ),
+        )
     ]
 )
